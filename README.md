@@ -1,4 +1,4 @@
-# Build Your First Ionic App: Photo Gallery (Ionic Angular and Capacitor)
+# Build Your First Ionic App: Photo Gallery (Ionic Angular and Capacitor) by Jonh
 
 Get started with Ionic by building a photo gallery app that runs on iOS, Android, and the web - with just one codebase. This is the complete project referenced in the ["Your First App: Angular" guide](https://ionicframework.com/docs/angular/your-first-app). Follow along to create a complete CRUD (create-read-update-delete) experience.
 
